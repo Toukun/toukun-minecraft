@@ -22,3 +22,7 @@ I built this mod originally for a group of friends I played with. We started out
 I began to make new blocks, more abilities, and lots of artwork (that I am fairly proud of for a developer.)
 
 Soon, we had enough cool features that my friends encouraged me to release it publicly. I am forever grateful for their support.
+
+## Rights
+
+All Rights Reserved for all assets made for this mod.
