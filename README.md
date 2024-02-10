@@ -13,6 +13,11 @@ Ever wanted to have a way to travel between bases? Now you can! With Portal Bloc
 ### Quests
 Ever wanted to get rewarded for all your hard work? Introducing the Quest Block and Quests! Once completed, Quest items can be used to grant you generous rewards!
 
+## FAQ
+### Is this mod able to be added to an existing world?
+Yes, you can add this to an existing world. I would recommend you start a new world, but nothing would break drastically by doing so.
+There is resource generation (and structures eventually), but up to this point it does not require you create a new world with the mod.
+
 ## Closed Source
 This project is presently Closed Source, but after I have gotten it to a place where I am happy with it, and I believe the codebase and feature are in a good place to build upon, I'd Open Source it.
 
