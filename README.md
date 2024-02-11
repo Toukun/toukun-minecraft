@@ -9,17 +9,32 @@ You can hearth to your bed anytime, so long as the ability is not on cooldown. T
 ### Weapon Variety
 I've added a selection of weapons that have different damage, attack speed, and even entity reach! You can craft any one line of weapons you like, or have multiple on you for different situations.
 ### Portal Stones
-Ever wanted to have a way to travel between bases? Now you can! With Portal Blocks and Portal Stones, you can travel to locations instantly. If you want to let your friend into your super secret base, a custom crafting recipe will let you copy an Attuned Portal Stone onto a regular Portal Stone.
+Ever wanted to have a way to travel between bases? Now you can! With Portal Blocks and Portal Stones, you can travel to locations instantly. 
+If you want to let your friend into your super secret base, a custom crafting recipe will let you copy an Attuned Portal Stone onto a regular Portal Stone.
 ### Quests
 Ever wanted to get rewarded for all your hard work? Introducing the Quest Block and Quests! Once completed, Quest items can be used to grant you generous rewards!
 
+## Roadmap
+There is a broad roadmap for the mod to keep you in the know for what's coming.
+Please view our Roadmap [here](https://github.com/Toukun/toukun-minecraft/blob/main/Roadmap.md). 
+
 ## FAQ
 ### Is this mod able to be added to an existing world?
-Yes, you can add this to an existing world. I would recommend you start a new world, but nothing would break drastically by doing so.
+Yes, you can add this to an existing world. I would recommend you start a new world, but nothing would break drastically by adding it to an existing one.
 There is resource generation (and structures eventually), but up to this point it does not require you create a new world with the mod.
+### Do you have recommended game rules and/or settings for this mod?
+No, I think the mod is balanced around any set of rules.
+We personall play with keepInventory on and difficulty set to hard, but otherwise anything is fine. 
+The Hearth and Dash mechanics really make both traversal quicker and easier, and give you more options to bail out of tough situations.
 
 ## Closed Source
 This project is presently Closed Source, but after I have gotten it to a place where I am happy with it, and I believe the codebase and feature are in a good place to build upon, I'd Open Source it.
+### Questions on Implementation
+If you're a fellow mod maker and have some questions about my implementation for certain mechanics, please feel free to drop a question in the [Q&A Discussion](https://github.com/Toukun/toukun-minecraft/discussions/categories/q-a).
+### Will you publish some of the interfaces so others can extend the features in this modification?
+At some point yes, but I'm not in a place where I am ready to start supporting an API or package for others to consume. 
+The mod is so early in its development that anything I build now may get refactored a dozen times, and it would be more of a hassle to support.
+Once we're open sourced, I would say that would be a time I'd expect to see more of the api exposed for consumption (or a package for dependencies.)
 
 ## Origin
 I built this mod originally for a group of friends I played with. We started out just wanting a dash ability, but then we expanded further and further.
