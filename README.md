@@ -24,13 +24,15 @@ Yes, you can add this to an existing world. I would recommend you start a new wo
 There is resource generation (and structures eventually), but up to this point it does not require you create a new world with the mod.
 ### Do you have recommended game rules and/or settings for this mod?
 No, I think the mod is balanced around any set of rules.
-We personall play with keepInventory on and difficulty set to hard, but otherwise anything is fine. 
+We personally play with keepInventory on and difficulty set to hard, but otherwise anything is fine. 
 The Hearth and Dash mechanics really make both traversal quicker and easier, and give you more options to bail out of tough situations.
 
 ## Closed Source
 This project is presently Closed Source, but after I have gotten it to a place where I am happy with it, and I believe the codebase and feature are in a good place to build upon, I'd Open Source it.
+
 ### Questions on Implementation
 If you're a fellow mod maker and have some questions about my implementation for certain mechanics, please feel free to drop a question in the [Q&A Discussion](https://github.com/Toukun/toukun-minecraft/discussions/categories/q-a).
+
 ### Will you publish some of the interfaces so others can extend the features in this modification?
 At some point yes, but I'm not in a place where I am ready to start supporting an API or package for others to consume. 
 The mod is so early in its development that anything I build now may get refactored a dozen times, and it would be more of a hassle to support.
@@ -44,5 +46,4 @@ I began to make new blocks, more abilities, and lots of artwork (that I am fairl
 Soon, we had enough cool features that my friends encouraged me to release it publicly. I am forever grateful for their support.
 
 ## Rights
-
 All Rights Reserved for all assets made for this mod.
