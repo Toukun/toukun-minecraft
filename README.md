@@ -13,6 +13,11 @@ Ever wanted to have a way to travel between bases? Now you can! With Portal Bloc
 If you want to let your friend into your super secret base, a custom crafting recipe will let you copy an Attuned Portal Stone onto a regular Portal Stone.
 ### Quests
 Ever wanted to get rewarded for all your hard work? Introducing the Quest Block and Quests! Once completed, Quest items can be used to grant you generous rewards!
+### Party System
+You're strong alone, but even stronger together! 
+Featuring a fully realized Party System, play with your friends and join them anywhere in the world! 
+See their current status in a small compact GUI.
+Players in the same party are also assigned to a team and have Friendly Fire turned off!
 
 ## Roadmap
 There is a broad roadmap for the mod to keep you in the know for what's coming.
