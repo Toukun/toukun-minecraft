@@ -1,5 +1,5 @@
 # Summary
-This is a Vanilla+ mod for Minecraft, adding new features and extensionso of the original game in a manner I believe to be consistent with Minecraft's own development philosophy.
+This is a Vanilla+ mod for Minecraft, adding new features and extensions of the original game in a manner I believe to be consistent with Minecraft's own development philosophy.
 
 ## Key Features
 ### Dashing
