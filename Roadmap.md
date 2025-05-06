@@ -4,16 +4,9 @@ This roadmap is subject to change, especially so early in this mod's life.
 I would expect, as time goes on, that the roadmap has less drastic changes and gets more specific as we get closer to final implementation.
 
 ## Updates in the Pipeline
-Since we're before the first major/minor version, there's a few updates we have in the pipeline that will precede our First Content Update.
 
-### Party System - 0.1.0
-Our first minor update will be the new Party System. Given the changes on the backend, I felt like this deserved a minor update rather than a patch release.
-Formerly called the "Aid" system, the Party Update will allow players to keep track of their allies status (online/offline, health) as they play cooperatively.
-Players will be able to manage their parties through Commands, and through a new Party Menu (opens by default with the 'o' key.)
-The Party Menu will allow players to Teleport to each other (with a cooldown) so people can play together more easily.
-
-#### Looking ahead for the Party System
-This system also opens up a lot of cool room for abilities that affect the entire party, and can be more specific in their use.
+### Looking ahead with the Party System
+The Party System opens up a lot of cool room for abilities that affect the entire party, and can be more specific in their use.
 Additionally, the Quest System could reward entire parties, and special events/locations in the world could interact with parties specially.
 
 ### Quest Implementation Update
@@ -31,11 +24,11 @@ There, they could complete, or abandon quests.
 We want quests that track how many enemies you kill of a given type, how many biomes you go to, etc.
 A lot of this logic should be able to hook into existing Advancement logic, and should be hopefully easy to access.
 
-## First Content Update
+### First Content Update
 We want to start adding our first structures and expand our crafting more.
 Given how far away this is and how much more creative work it is, I expect it to take some time.
 
-### New Structures - The End Crusaders Faction Structures
+#### New Structures - The End Crusaders Faction Structures
 One of the questions my friends and I asked was "Who were the people who made the Strongholds?"
 We want to expand the lore and add Crusader Strongholds in the upper reaches of the world, and incursions into the Nether (clearly they must have gotten Blaze Powder somehow to make Eyes of Ender.)
 Given their location in the peaks of the overworld, a lot of the Silver ore added by this mod would be used in their design and decoration.
