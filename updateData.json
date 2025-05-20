@@ -1,7 +1,7 @@
 {
   "homepage": "https://modrinth.com/mod/toukun-mod",
   "promos": {
-    "1.21.1-latest": "0.1.6-a1",
+    "1.21.1-latest": "0.1.6-a2",
     "1.21.1-recommended": "0.1.5",
     "1.20.6-latest": "0.1.3",
     "1.20.6-recommended": "0.1.3",
@@ -9,6 +9,7 @@
     "1.20.4-recommended": "0.1.2"
   },
   "1.21.1": {
+    "0.1.6-a2": "Particle and texture changes.",
     "0.1.6-a1": "Hearth Delay introduced, bugfixes.",
     "0.1.5": "New Client and Server Configs, reworked Hearth Cooldown, updated commands.",
     "0.1.4": "New Dash GUI, config, update checker, and bugfixes."
