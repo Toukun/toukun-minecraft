@@ -1,7 +1,7 @@
 {
   "homepage": "https://modrinth.com/mod/toukun-mod",
   "promos": {
-    "1.21.1-latest": "0.1.8-a2",
+    "1.21.1-latest": "0.1.8-a3",
     "1.21.1-recommended": "0.1.7",
     "1.20.6-latest": "0.1.3",
     "1.20.6-recommended": "0.1.3",
@@ -9,6 +9,7 @@
     "1.20.4-recommended": "0.1.2"
   },
   "1.21.1": {
+    "0.1.8-a3": "Dash Charges and Dash Config Commands.",
     "0.1.8-a2": "Initial Dash Server Configuration Settings.",
     "0.1.8-a1": "Swing Timer revamp and configuration.",
     "0.1.7": "Improved Portal Stone functionality and user experience.",
